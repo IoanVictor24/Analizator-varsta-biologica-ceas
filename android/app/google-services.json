@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702290620187",
+    "project_id": "bioagelicenta",
+    "storage_bucket": "bioagelicenta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702290620187:android:07b62e5b4bcd924375adbe",
+        "android_client_info": {
+          "package_name": "com.example.biocycle_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAywyyLgLHhto0AtbOvo5elk0GJQHt2csY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702290620187:android:3e2d9220f6e5e7ed75adbe",
+        "android_client_info": {
+          "package_name": "com.example.biocycle_watch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAywyyLgLHhto0AtbOvo5elk0GJQHt2csY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
